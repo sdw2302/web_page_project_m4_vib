@@ -1,41 +1,4 @@
-.ContactPage {
-    height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.ContactForm{
-    width: 700px;
-    height: min-content;
-    padding: 20px;
-    border-radius: 12px;
-    background: #ffffff;
-}
-
-.ContactForm h1 {
-    font-size: 36px;
-    margin-bottom: 25px;
-}
-
-.ContactForm form{
-    font-size: 20px;
-}
-
-.ContactForm form .form-group{
-    margin-bottom: 12px;
-}
-
-
-
-.ContactForm form input[type="submit"]{
-    font-size: 20px;
-    margin-top: 15px;
-}
-
-.container{
-    width: 20%;
-    height: 100%;
+.contactForm{
     background-color: white;
 }
 
