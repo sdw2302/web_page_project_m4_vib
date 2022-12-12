@@ -1,5 +1,12 @@
 .contactForm{
-    background-color: white;
+    color: aliceblue;
 }
 
+.nav{
+    background-color: rgb(53, 135, 164);
+}
+
+.back{
+    background-color: rgb(193, 223, 240);
+}
 
